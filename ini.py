@@ -83,3 +83,4 @@ for a, b in data_panen.items():
 
 print("-" * 25) 
 print("hallaw gais!")
+print("coba edit deh")
