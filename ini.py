@@ -80,3 +80,6 @@ for a, b in data_panen.items():
         print(f"Lokasi {lokasinya} memiliki hasil panen padi dan jagung yang banyak, jadi memerlukan perhatian khusus")
     else:
         print(f"Lokasi {lokasinya} memiliki hasil panen padi dan jagung yang tidak banyak, jadi kondisi baik")
+
+print("-" * 25) 
+print("hallaw gais!")
